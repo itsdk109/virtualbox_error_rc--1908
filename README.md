@@ -20,7 +20,6 @@ The error message you're seeing indicates that the VirtualBox kernel modules are
    ```bash
    sudo /sbin/vboxconfig
    ```
-09
 
 3. ## **Restart your system**:
    After performing the above steps, restart your system to ensure that the changes take effect.
