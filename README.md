@@ -1,3 +1,6 @@
+# Error 
+![VirtualBox Error](https://github.com/itsdk109/virtualbox_error_rc--1908/blob/main/error.png)
+
 # Kernel driver not installed (rc=-1908)
 
 The error message you're seeing indicates that the VirtualBox kernel modules are not loaded correctly on your Linux system. Here are the steps you can follow to resolve this issue:
